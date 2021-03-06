@@ -21,8 +21,10 @@ Control of the movement of aircraft is carried out by the airport dispatcher. It
 The airport must book and sell tickets through the information portal-the website. There you can search, choose a suitable fare, fill in information about passengers, choose a payment method and delivery. Then the completed data is sent directly to the airline, which is engaged in the sale of tickets.
 Baggage inspection is carried out by the airport security service. Each baggage is sealed and viewed on an X-ray machine. Next, loading takes place in the cargo compartment of the aircraft. The security service, in case of successful verification, puts a special stamp on the luggage. In case of failure, the security service should contact the passenger.
 
-# ER DIAGRAM
+ER DIAGRAM
+------------
 We have created an Entity-Relationship diagram
+
 Display information about the nearest flights for a certain period of time
 Displaying information about flights by city of departure and arrival
 Display information about events related to this aircraft on this flight
