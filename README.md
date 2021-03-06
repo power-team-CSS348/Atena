@@ -1,7 +1,7 @@
 # Atena
 
-
-
+About project 
+=====================
 In our project, we chose the airport. .
 The tasks of the airport include: control and management of the movement of aircraft, baggage inspection. The airport also works closely with airlines.
 Airlines form flights, the airport makes and adjusts the schedule of movement depending on the workload of the runway, provides a parking space for airline aircraft. Airports are equipped with waiting rooms, where you can see information about the nearest flights on the information board.
