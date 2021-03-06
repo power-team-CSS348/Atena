@@ -25,14 +25,14 @@ ER DIAGRAM
 ------------
 We have created an Entity-Relationship diagram
 
-Display information about the nearest flights for a certain period of time
-Displaying information about flights by city of departure and arrival
-Display information about events related to this aircraft on this flight
-Displaying information about unforeseen events related to this aircraft on this flight
-Generating a report on the movement of aircraft on a certain day, week, month or other period of time
-Formation of the schedule of aircraft movement on the current day, in a certain period of time
-Displaying information about airlines and their aircraft
-Display information about flights associated with a particular city
-Displaying information about flights associated with a particular country
-Displaying information about the buyer and the tickets purchased by them
-Displaying information about passengers for whom tickets are booked
+*  Display information about the nearest flights for a certain period of time
+* Displaying information about flights by city of departure and arrival
+* Display information about events related to this aircraft on this flight
+* Displaying information about unforeseen events related to this aircraft on this flight
+* Generating a report on the movement of aircraft on a certain day, week, month or other period of time
+* Formation of the schedule of aircraft movement on the current day, in a certain period of time
+* Displaying information about airlines and their aircraft
+* Display information about flights associated with a particular city
+* Displaying information about flights associated with a particular country
+* Displaying information about the buyer and the tickets purchased by them
+* Displaying information about passengers for whom tickets are booked
