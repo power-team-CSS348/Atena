@@ -26,15 +26,18 @@ Goal
 ====
 The main purpose is to record the movement of aircraft and provide information about flights associated with this airport. A secondary task is the sale of tickets.
 
+User Tasks
+===========
 
-
-
-
+Platform - WEB
+===============
+We will use Python for our app.
 
 ER DIAGRAM
 ------------
 We have created an Entity-Relationship diagram
 
+and added queries 
 *  Display information about the nearest flights for a certain period of time
 * Displaying information about flights by city of departure and arrival
 * Display information about events related to this aircraft on this flight
