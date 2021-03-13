@@ -38,6 +38,15 @@ The tasks of the manager include viewing reports and adding or changing informat
 
 Data Processing
 ----------------
+1. Automatic change of flight status (departed, scheduled, delayed or canceled)
+2. Calculation of the fare cost based on the flights included in it and the number of passengers
+3. Calculation of arrival time based on departure time and flight duration
+4. Calculation of arrival and departure times in local time, relative to the location of the aircraft
+5. Checking the correctness of the completed data on events related to the aircraft. Includes the following checks:
+• No more than one departure event and one arrival event can be created on the same flight
+• The "arrived" event cannot be created if there is no "departed" event
+• The "departed" event cannot be created if it is later than the "arrived" event
+• The "arrived" event cannot be created if it is earlier than the "departed" event»
 
 Platform - WEB
 ---------------
@@ -47,7 +56,15 @@ ER DIAGRAM
 ------------
 We have created an Entity-Relationship diagram
 
-and added queries 
+and added queries
+* Entering, changing, and deleting flight data
+* Entering, changing and deleting airline data
+* Entering, changing data about the aircraft
+* Entering, changing, and deleting data about events related to the aircraft
+* Entering, changing, and deleting data about unexpected events related to the aircraft
+* Entering, changing and deleting passenger data
+* Entering, changing, and deleting data about the ticket buyer.
+* Entering, changing, and deleting data about the airport, city, and country
 * Display information about the nearest flights for a certain period of time
 * Displaying information about flights by city of departure and arrival
 * Display information about events related to this airplane on this flight
