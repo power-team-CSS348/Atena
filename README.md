@@ -51,6 +51,10 @@ Data Processing
 Platform - WEB
 ---------------
 We will use Python for our app.
+1)Table-Aircompany contains Aircompany name, Aircompany Phone, Aircompany Adress
+2)The  AirPort table contains Airport idCity, Airport Name
+3)
+
 
 ER DIAGRAM
 ------------
