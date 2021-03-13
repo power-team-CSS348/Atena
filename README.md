@@ -2,7 +2,7 @@ Advanced Database Management Systems Project
 
 # Atena
 
-Description of the object 
+Description of the project 
 =====================
 In our project, we chose the airport. .
 The tasks of the airport include: control and management of the movement of aircraft, baggage inspection. The airport also works closely with airlines.
@@ -25,14 +25,22 @@ Baggage inspection is carried out by the airport security service. Each baggage 
 
 
 Goal
-====
+------
 The main purpose is to record the movement of aircraft and provide information about flights associated with this airport. A secondary task is the sale of tickets.
 
 User Tasks
-===========
+-----------
+The airline must create a record of a new flight or make changes to existing records. The airline is also engaged in updating the data filled in on the booking page, selling tickets. The airline enters information about the number of remaining seats on the plane.
+The dispatcher enters information about events related to the aircraft, namely, departure time, landing time, delays and even cancellations.
+The Internet portal should search for flights by criteria and book tickets.
+The buyer searches for a suitable fare, based on the search criteria, and books tickets.
+The tasks of the manager include viewing reports and adding or changing information about airlines.
+
+Data Processing
+----------------
 
 Platform - WEB
-===============
+---------------
 We will use Python for our app.
 
 ER DIAGRAM
