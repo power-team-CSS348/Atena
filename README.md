@@ -1,6 +1,6 @@
 # Atena
 
-About project 
+Description of the object 
 =====================
 In our project, we chose the airport. .
 The tasks of the airport include: control and management of the movement of aircraft, baggage inspection. The airport also works closely with airlines.
@@ -20,6 +20,16 @@ The formation of a flight for an airport includes entering information about the
 Control of the movement of aircraft is carried out by the airport dispatcher. It gives permission for take-off / landing, records delays, unforeseen circumstances, and monitors weather conditions.
 The airport must book and sell tickets through the information portal-the website. There you can search, choose a suitable fare, fill in information about passengers, choose a payment method and delivery. Then the completed data is sent directly to the airline, which is engaged in the sale of tickets.
 Baggage inspection is carried out by the airport security service. Each baggage is sealed and viewed on an X-ray machine. Next, loading takes place in the cargo compartment of the aircraft. The security service, in case of successful verification, puts a special stamp on the luggage. In case of failure, the security service should contact the passenger.
+
+
+Goal
+====
+The main purpose is to record the movement of aircraft and provide information about flights associated with this airport. A secondary task is the sale of tickets.
+
+
+
+
+
 
 ER DIAGRAM
 ------------
